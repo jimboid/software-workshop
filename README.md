@@ -8,7 +8,9 @@ If the workstation you are setting up runs Windows (mac and linux users skip thi
 
 ### Linux Virtual Machine
 
-If you decided to install the Linux Virtual Machine then you will first need to install virtualbox (for Windows hosts) from here https://www.virtualbox.org/wiki/Downloads
+If you decided to install the Linux Virtual Machine then you will first need to download and install virtualbox (for Windows hosts) from here https://www.virtualbox.org/wiki/Downloads
+
+Then download the Ubuntu Linux desktop iso https://ubuntu.com/download/desktop  
 
 Then follow this tutorial to install a Linux (Ubuntu) VM https://github.com/jimboid/software-workshop/blob/master/install-vm.md.
 
