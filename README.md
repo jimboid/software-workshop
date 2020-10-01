@@ -4,9 +4,13 @@ This material is designed to assist beginners/new scientists in biomolecular sim
 
 ## Step 1 - Prepare Your Workstation
 
-If the workstation you are setting up runs Windows (mac and linux users skip this step), decide if you are going to work in a Linux Virtual Machine or use the Windows Subsystem for Linux.
+If the workstation you are setting up runs Windows (mac and linux users skip this step), decide if you are going to work in a Linux Virtual Machine (VM) or use the Windows Subsystem for Linux (WSL). The basic difference is that the VM offers full seperation of the operating systems whilst the WSL is more integrated. With the VM you would have to work fully within the VM, or setup some shared directories to pass files between Windows and Linux. With WSL you can use files seamlessly between the Windows installed tools and the ones installed in Linux. I tend to prefer working with the seperation of a VM, but on low end hardware, better results are often seen with WSL.
 
-Linux Virtual Machine
+### Linux Virtual Machine
+
+If you decided to install the Linux Virtual Machine then you will first need to install virtualbox (for Windows hosts) from here https://www.virtualbox.org/wiki/Downloads
+
+Then follow this tutorial to install a Linux (Ubuntu) VM.
 
 ### Windows Subsystem for Linux
 
