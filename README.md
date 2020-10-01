@@ -25,8 +25,10 @@ https://ambermd.org/AmberTools.php
 
 
 
-## Step 4 - Have a go at pip installing some common tools such as mdtraj, numpy, matplotlib.
+## Step 4 - Install Some Common Python Libs Using pip
 
-pip install numpy
-pip install matplotlib
-pip install mdtraj
+Have a go at pip installing some common tools such as mdtraj, numpy, matplotlib. This exercise is designed to demonstrate how simple it is to install tools that are available on the Pyhon repositories (pypi). MDTraj (http://mdtraj.org/1.9.3/) is quite useful for manipulating Molecular Dynamics trajectories. matplotlib (https://matplotlib.org/) is useful for scripting and quickly plotting charts (combined with Jupyter can be quite powerful). Numpy (https://numpy.org/) is a powerful numerical library that is very useful for manipulating complex numerical data. 
+
+'pip install numpy'
+'pip install matplotlib'
+'pip install mdtraj'
