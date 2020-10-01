@@ -27,7 +27,7 @@ Paraview for LBE results and some DPD analysis https://www.paraview.org/
 A program to plot tabulated data (e.g. Gnuplot, Excel) or one of the Python scripts (see below).
 
 
-# Optional Python Scripts
+## Optional Python Scripts
 
 Some Python3 scripts to carry out a simple DPD simulation workflow for one of the practical exercises and plot graphs of simulation outputs (These scripts are optional but very useful and recommended for the DPD exercises.) 
 As well as Python3, the following packages need to be installed using PIP:
