@@ -31,10 +31,12 @@ https://ambermd.org/AmberTools.php
 
 Have a go at pip installing some common tools such as mdtraj, numpy, matplotlib. This exercise is designed to demonstrate how simple it is to install tools that are available on the Python Package Index (pypi https://pypi.org/). 
 
-**MDTraj** http://mdtraj.org/1.9.3/ is quite useful for manipulating Molecular Dynamics trajectories. 
+**MDTraj** http://mdtraj.org/1.9.3/ is quite useful for manipulating Molecular Dynamics trajectories.
+
 **matplotlib** https://matplotlib.org/ is useful for scripting and quickly plotting charts (combined with Jupyter can be quite powerful). 
+
 **Numpy** https://numpy.org/ is a powerful numerical library that is very useful for manipulating complex numerical data. 
 
-'pip install numpy'
-'pip install matplotlib'
-'pip install mdtraj'
+```pip install numpy```
+```pip install matplotlib```
+```pip install mdtraj```
