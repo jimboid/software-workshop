@@ -49,4 +49,4 @@ Have a go at pip installing some common tools such as mdtraj, numpy, matplotlib.
 
 ### That's it for this workshop!
 
-Some of the other workshops next week may have software installation requirements, you should check the programme descriptions http://www.ccpbiosim.ac.uk/events/upcoming/eventdetail/127/-/training-week-2020 and install any software they suggest. For those who are doing the DL_MESO workshop instructions can be found here https://github.com/jimboid/software-workshop/blob/master/dlmeso-install.md
+Some of the other workshops next week may have software installation requirements, you should check the programme descriptions http://www.ccpbiosim.ac.uk/events/upcoming/eventdetail/127/-/training-week-2020 and install any software they suggest. For those who are doing the DL_MESO workshop instructions can be found here https://github.com/jimboid/software-workshop/blob/master/dlmeso-install.md the instructor has indicated he will give some help on the day for those finding it difficult to install the software.
