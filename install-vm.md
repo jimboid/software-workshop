@@ -58,26 +58,69 @@ You now have to select your Ubuntu ISO file that you downloaded earlier. Click o
 
 ![step 9](/images/step9.png)
 
-### Step 10
-
-
+You should now see the following screen
 
 ![step 10](/images/step10.png)
 
+If you get the following error
+
+The native API DLL was not found (C:\WINDOWS\system32\WinHvPlatform.dll) (VERR_NEM_NOT_AVAILABLE).
+VT-x is not available (VERR_VMX_NO_VMX).
+
+To resolve this above error, use the following command in Command Prompt (Admin), "dism.exe /Online /Disable-Feature:Microsoft-Hyper-V".
+ 
+You should then try the above step again and your VM should start normally.
+
+### Step 10
+
+Now, click on the "Install Ubuntu" button.
+
 ![step 11](/images/step11.png)
+
+### Step 11
+
+Select your desired "keyboard layout" and click on the "Continue" button.
 
 ![step 12](/images/step12.png)
 
+### Step 12
+
+Use the default option as "Normal Installation" with the "Download updates while installing Ubuntu" and click on the "Continue" button.
+
 ![step 13](/images/step13.png)
+
+### Step 13
+
+Select the default option as the "Erase disk and Install Ubuntu" and click on the "Install Now" option to proceed (This is safe as it is in a virtual machine disk!).
 
 ![step 14](/images/step14.png)
 
+### Step 14
+
+A warning prompt will appear on the screen and click on the "Continue" button (again ignore this warning on a VM).
+
 ![step 15](/images/step15.png)
+
+### Step 15
+
+Choose your time zone on the map and click Continue.
 
 ![step 16](/images/step16.png)
 
+### Step 16
+
+Now, set your user account here by filling the necessary details and click on the "Continue" button to proceed. You can tick the login automatically box to avoid having to log in to your windows and then into your linux VM.
+
 ![step 17](/images/step17.png)
 
+### Step 17
+
+Now, the installation process will begin. You will see a bunch of shiney pages telling you about features as this completes!
+
 ![step 18](/images/step18.png)
+
+### Step 18
+
+Hit reboot and you're done!
 
 ![step 19](/images/step19.png)
