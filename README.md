@@ -10,12 +10,11 @@ If the workstation you are setting up runs Windows (mac and linux users skip thi
 
 If you decided to install the Linux Virtual Machine then you will first need to install virtualbox (for Windows hosts) from here https://www.virtualbox.org/wiki/Downloads
 
-Then follow this tutorial to install a Linux (Ubuntu) VM.
+Then follow this tutorial to install a Linux (Ubuntu) VM https://github.com/jimboid/software-workshop/blob/master/install-vm.md.
 
 ### Windows Subsystem for Linux
 
 If you decided to install the Windows Subsystem for Linux then you should follow the instructions from Microsoft here https://docs.microsoft.com/en-us/windows/wsl/install-win10
-
 
 
 ## Step 2 - Install a Molecular Visualiser (VMD)
@@ -47,3 +46,7 @@ Have a go at pip installing some common tools such as mdtraj, numpy, matplotlib.
 ```pip install matplotlib```
 
 ```pip install mdtraj```
+
+### That's it for this workshop!
+
+Some of the other workshops next week may have software installation requirements, you should check the programme descriptions http://www.ccpbiosim.ac.uk/events/upcoming/eventdetail/127/-/training-week-2020 and install any software they suggest. For those who are doing the DL_MESO workshop instructions can be found here https://github.com/jimboid/software-workshop/blob/master/dlmeso-install.md
