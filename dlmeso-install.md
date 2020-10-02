@@ -14,7 +14,7 @@ C++ compiler (e.g. g++ in GCC suite)
 and can optionally include an installed instance of MPI (e.g. Open-MPI) with compiler wrappers to speed up calculations. 
 All of these can be installed using a Linux package manager – via Windows Linux Subsystem in Windows 10 – or either MacPorts or HomeBrew on Macs.
 
-On ubuntu running ```sudo apt-get install build-essential``` in your terminal should install the GCC suite.
+On ubuntu running ```sudo apt-get install build-essential``` in your terminal should install the GCC suite, some users may need to also install ```sudo apt-get install gfortran``` seperately.
 
 You can then follow the instructions for compiling DL_MESO here https://www.scd.stfc.ac.uk/Pages/USRMAN.pdf
  
